@@ -35,7 +35,7 @@ Ce projet compare deux implémentations Android pour une application qui utilise
 ---
 
 ## Technologies et Outils Utilisés
-- **Langage** : Java/Kotlin.
+- **Langage** : Java.
 - **Framework** : Android SDK.
 - **Composants Jetpack** :
   - ViewModel
